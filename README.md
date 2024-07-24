@@ -1,4 +1,4 @@
-### Olá eu sou o Victor Rezende 👋
+### Olá! Eu sou o Victor Rezende 👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vxctor_matheus)
