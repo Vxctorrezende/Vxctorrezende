@@ -5,6 +5,8 @@
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vxctorrezende&show_icons=true&theme=dracula)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vxctorrezende&show_icons=true&theme=transparent)
+
 ## Tecnologias que utilizo no meu dia 
 
 <div style="display: inline_block"><br/>
