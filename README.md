@@ -2,17 +2,16 @@
 
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](matheusdelimarezende@gmail.com)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vxctor_matheus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-rezende2003/)
 
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=Vxctorrezende&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vxctorrezende&layout=compact)
 
 ## Tecnologias que utilizo no meu dia 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vxctorrezende&langs_count=8)
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
