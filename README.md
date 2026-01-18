@@ -11,7 +11,8 @@
     
 </div><br/>
 
-Apaixonado por tecnologia, estudante em Engenharia de Software.
+Estudante de Engenharia de Software em transição de carreira.
+
 
 #### EMAIL: matheusdelimarezende@gmail.com
 
