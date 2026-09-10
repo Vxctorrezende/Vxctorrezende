@@ -11,7 +11,7 @@
     
 </div><br/>
 
-Estudante de Engenharia de Software em transição de carreira.
+Engenharia de Software
 
 
 #### EMAIL: matheusdelimarezende@gmail.com
