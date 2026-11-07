@@ -20,13 +20,13 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Cursando **Engenharia de Software** (6º período), no Brasil 🇧🇷
-- ☕ Foco em **desenvolvimento backend** com **Java** e **C#**, e construção de **APIs**
-- 🤖 Estudando **Inteligência Artificial**: LLMs, IA Generativa, Agentes e Machine Learning
-- 🏗️ Interesse em **arquitetura de software**, **gestão de projetos** e metodologias ágeis (Scrum)
-- 🔐 Desenvolvendo meu TCC na área de **Cibersegurança** (Threat Intelligence, SOC e Pentest automatizado)
-- 🏦 Meta: atuar como **desenvolvedor Java no setor bancário**
-- 🌱 Sempre aprendendo, construindo projetos e compartilhando o que aprendo
+-  Cursando **Engenharia de Software** (6º período), no Brasil 🇧🇷
+-  Foco em **desenvolvimento backend** com **Java** e **C#**, e construção de **APIs**
+-  Estudando **Inteligência Artificial**: LLMs, IA Generativa, Agentes e Machine Learning
+-  Interesse em **arquitetura de software**, **gestão de projetos** e metodologias ágeis (Scrum)
+-  Desenvolvendo meu TCC na área de **Cibersegurança** (Threat Intelligence, SOC e Pentest automatizado)
+-  Meta: atuar como **desenvolvedor Java no setor bancário**
+-  Sempre aprendendo, construindo projetos e compartilhando o que aprendo
 
 ---
 
@@ -34,17 +34,17 @@
 
 | Área | O que estou fazendo |
 |------|---------------------|
-| ☕ **Java** | Construindo portfólio com projetos voltados ao setor financeiro/bancário |
-| 🤖 **IA / GenAI** | Estudando LLMs, agentes e aplicações de IA Generativa |
-| 🧪 **Qualidade** | Testes unitários em C# com xUnit (Arrange-Act-Assert, `[Fact]` e `[Theory]`) |
-| 🔐 **Cibersegurança** | Pesquisa para o TCC em segurança, confiabilidade e engenharia de sistemas |
-| ☁️ **Cloud** | Evoluindo em AWS e backend |
+|  **Java** | Construindo portfólio com projetos voltados ao setor financeiro/bancário |
+|  **IA / GenAI** | Estudando LLMs, agentes e aplicações de IA Generativa |
+|  **Qualidade** | Testes unitários em C# com xUnit (Arrange-Act-Assert, `[Fact]` e `[Theory]`) |
+|  **Cibersegurança** | Pesquisa para o TCC em segurança, confiabilidade e engenharia de sistemas |
+|  **Cloud** | Evoluindo em AWS e backend |
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-### 💻 Linguagens
+###  Linguagens
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs,python,cpp,js,ts,dart&perline=7" alt="Linguagens"/>
